@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>後台首頁</div>
+  <div>Page: aboout</div>
 </template>
 
 <style scoped></style>

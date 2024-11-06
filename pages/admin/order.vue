@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <div>後台首頁</div>
+  <div>後台訂單</div>
 </template>
 
 <style scoped></style>
